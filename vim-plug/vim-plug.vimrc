@@ -31,5 +31,8 @@ Plug 'numirias/semshi', {'do': ':UpdateRemotePlugins'}
 " Status line
 Plug 'vim-airline/vim-airline'
 
+" Vimwiki
+Plug 'vimwiki/vimwiki'
+
 call plug#end()
 

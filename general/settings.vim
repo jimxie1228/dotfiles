@@ -17,6 +17,10 @@ set colorcolumn=80
 " for fzf
 set rtp+=/usr/local/opt/fzf
 
+" for vimwiki
+set nocompatible
+filetype plugin on
+
 " for nvim.coc
 " if hidden is not set, TextEdit might fail.
 set hidden
